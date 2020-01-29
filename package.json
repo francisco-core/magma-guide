@@ -11,7 +11,7 @@
   "bugs": "https://github.com/lavafeld/magma-guide/issues/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lavafeld/magma-guid"
+    "url": "https://github.com/lavafeld/magma-guide"
   },
   "dependencies": {
     "vuepress": "1.2.0",
